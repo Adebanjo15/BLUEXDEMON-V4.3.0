@@ -1,8 +1,8 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 //Input number for pair code
-global.pairingNumber = "2349036039811"
+global.pairingNumber = "2349035615458"
 
-global.botNumber = ["2349036039811"]
+global.botNumber = ["2349035615458"]
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -21,8 +21,8 @@ global.antiSpam = true
 global.sign = "☃️❄️"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "MONIEPOINT"
-global.bankname = "OLUWOLE"
-global.accnumber = "7042850798"
+global.bankname = "Adebanjo......."
+global.accnumber = "5597969641"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
